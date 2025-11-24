@@ -1,4 +1,3 @@
-```sh
 #!/bin/bash
 
 # -------------------------------------------
@@ -80,5 +79,3 @@ echo "Report saved to $OUTPUT_FILE"
 
 # Output summary to console
 echo "Script completed. Execution time: ${elapsed_time} seconds. Report saved to $OUTPUT_FILE."
-
-```
